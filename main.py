@@ -17,6 +17,8 @@ with a transcript; (4) turns the farewell into more than a
 goodbye — the admission that it kept everything, and the one
 word it wishes had been among them; (5) uses its characters
 well — 74 of 200, nothing to cut, no explaining its own sadness.
+The line was kept short on purpose: the whole weight sits in the
+final word, "stay", so length beyond that would only dilute it.
 """
 
 import os
